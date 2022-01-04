@@ -1,7 +1,7 @@
 /**
  * External dependencies
  */
-import { getSetting, STORE_PAGES } from '@woocommerce/settings';
+import { getSetting, STORE_PAGES } from '../shared/index';
 
 export type WordCountType =
 	| 'words'

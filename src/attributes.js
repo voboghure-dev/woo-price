@@ -1,7 +1,7 @@
 /**
  * External dependencies
  */
-import { isFeaturePluginBuild } from './settings/blocks/';
+import { isFeaturePluginBuild } from './settings/blocks/index';
 
 let blockAttributes = {
 	productId: {
